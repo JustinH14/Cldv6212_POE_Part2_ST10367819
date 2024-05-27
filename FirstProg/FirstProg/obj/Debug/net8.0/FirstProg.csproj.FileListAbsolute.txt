@@ -1,0 +1,14 @@
+D:\Personal Projects\FirstProg\FirstProg\bin\Debug\net8.0\FirstProg.exe
+D:\Personal Projects\FirstProg\FirstProg\bin\Debug\net8.0\FirstProg.deps.json
+D:\Personal Projects\FirstProg\FirstProg\bin\Debug\net8.0\FirstProg.runtimeconfig.json
+D:\Personal Projects\FirstProg\FirstProg\bin\Debug\net8.0\FirstProg.dll
+D:\Personal Projects\FirstProg\FirstProg\bin\Debug\net8.0\FirstProg.pdb
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\FirstProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\FirstProg.AssemblyInfoInputs.cache
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\FirstProg.AssemblyInfo.cs
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\FirstProg.csproj.CoreCompileInputs.cache
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\FirstProg.dll
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\refint\FirstProg.dll
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\FirstProg.pdb
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\FirstProg.genruntimeconfig.cache
+D:\Personal Projects\FirstProg\FirstProg\obj\Debug\net8.0\ref\FirstProg.dll
